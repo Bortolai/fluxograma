@@ -1,0 +1,215 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
+  <diagram name="Página-1" id="xC3IDfEOeGeeoKpa32cC">
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="71bS-nrT2A2EBhS6H1Gx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="1040" as="targetPoint" />
+            <mxPoint x="154" y="155" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="154" y="156" />
+              <mxPoint x="174" y="156" />
+              <mxPoint x="174" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bem-Vindo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo:&amp;nbsp;Olá, sou a Ceci!&amp;nbsp; &amp;nbsp;Como posso te ajudar?&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="14" y="120" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-7" target="71bS-nrT2A2EBhS6H1Gx-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="110" />
+              <mxPoint x="629" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-7" target="71bS-nrT2A2EBhS6H1Gx-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="120" />
+              <mxPoint x="449" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Informações das Linhas&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: integrações das&amp;nbsp; &amp;nbsp;linhas, localização&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="194" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-9" target="71bS-nrT2A2EBhS6H1Gx-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="240" />
+              <mxPoint x="449" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-9" target="eKghHrFIvK1k567l9pEH-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="230" />
+              <mxPoint x="644" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Paradas/Estações&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: quais são as&amp;nbsp; &amp;nbsp;paradas/estações das&amp;nbsp; &amp;nbsp;linhas&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="194" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Horário de funcionamento&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: abertura do&amp;nbsp; &amp;nbsp;metrô, encerramento&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="194" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-12" target="eKghHrFIvK1k567l9pEH-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="470" />
+              <mxPoint x="439" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Emergência&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: acidente, roubo,&amp;nbsp; &amp;nbsp;atos discriminatórios&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="194" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Informações do incidente&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: onde ocorreu,&amp;nbsp; &amp;nbsp;em qual linha e estação&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="364" y="485" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-18" target="eKghHrFIvK1k567l9pEH-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="269" y="580" />
+              <mxPoint x="615" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKghHrFIvK1k567l9pEH-18" target="eKghHrFIvK1k567l9pEH-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="269" y="590" />
+              <mxPoint x="445" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Bilhetes&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: como solicitar&amp;nbsp; &amp;nbsp;bilhete, quem tem direito&amp;nbsp; &amp;nbsp;ao benefício&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="194" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bilhete único estudantil&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: como solicitar,&amp;nbsp; &amp;nbsp;para quem se aplica&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="534" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Estações da linha 9-Esmeralda&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: luz, republica, paulista&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="554" y="250" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKghHrFIvK1k567l9pEH-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bilhete único personalizado&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Exemplo: como solicitar,&amp;nbsp; &amp;nbsp;para quem se aplica&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="364" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71bS-nrT2A2EBhS6H1Gx-27" target="71bS-nrT2A2EBhS6H1Gx-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="720" />
+              <mxPoint x="429" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71bS-nrT2A2EBhS6H1Gx-27" target="71bS-nrT2A2EBhS6H1Gx-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="710" />
+              <mxPoint x="589" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71bS-nrT2A2EBhS6H1Gx-27" target="71bS-nrT2A2EBhS6H1Gx-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="700" />
+              <mxPoint x="749" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Tarifas e pagamentos&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: valores de&amp;nbsp; &amp;nbsp;passagens, passes&amp;nbsp; &amp;nbsp;unitários, bilhetes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="194" y="730" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Linha 4-Amarela&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: integrações das linhas, localização&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="374" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Linha 8-Diamante&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: integrações das linhas, localização&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="554" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Estações da linha 5-Lilás&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: luz, republica,&amp;nbsp; &amp;nbsp;paulista&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="374" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Mapa do metrô&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: imagem&amp;nbsp; &amp;nbsp;completa do mapa do&amp;nbsp; &amp;nbsp;metrô&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="194" y="840" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dicas de segurança&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo:&amp;nbsp; &amp;nbsp;comportamentos dentro&amp;nbsp; &amp;nbsp;da estação, instruções&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="194" y="950" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Valor Bilhete Único&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: tarifa do&amp;nbsp; &amp;nbsp;bilhete único&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="730" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Passagem única&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: tarifa da&amp;nbsp; &amp;nbsp;passagem atual em&amp;nbsp; &amp;nbsp;unidade&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="524" y="730" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Passagem mensal&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Exemplo: tarifa de&amp;nbsp; &amp;nbsp;passagens mensais&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="684" y="730" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-44" value="&lt;b&gt;INTENÇÕES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-45" value="&lt;b&gt;ENTIDADES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="eKghHrFIvK1k567l9pEH-18">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="639.5" as="sourcePoint" />
+            <mxPoint x="194" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="71bS-nrT2A2EBhS6H1Gx-27">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="769.5" as="sourcePoint" />
+            <mxPoint x="194" y="770" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-51" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="71bS-nrT2A2EBhS6H1Gx-37">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="879.5" as="sourcePoint" />
+            <mxPoint x="254" y="879.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-52" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="eKghHrFIvK1k567l9pEH-12">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="519.5" as="sourcePoint" />
+            <mxPoint x="254" y="519.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-53" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="eKghHrFIvK1k567l9pEH-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="399.5" as="sourcePoint" />
+            <mxPoint x="254" y="399.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="eKghHrFIvK1k567l9pEH-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="289.5" as="sourcePoint" />
+            <mxPoint x="254" y="289.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71bS-nrT2A2EBhS6H1Gx-55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" target="eKghHrFIvK1k567l9pEH-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="169.5" as="sourcePoint" />
+            <mxPoint x="254" y="169.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
